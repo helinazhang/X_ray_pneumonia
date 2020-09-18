@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 27 10:25:35 2020
 
-@author: Jinlong_Dell
-"""
 import os
 import numpy as np
 from tqdm import tqdm
