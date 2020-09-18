@@ -2,4 +2,4 @@
 
 Classification of pneumonia/normal based on X-ray data
 
-Using both CNN and traditional method
+Using both CNN and traditional methods
